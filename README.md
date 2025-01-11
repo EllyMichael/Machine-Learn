@@ -1,0 +1,1 @@
+The files i have uploades consists of four frocesses of uploading, cleaning, engineering and modelling the data as well as i can, I have used assisytance from Artificial Intelligence where i was stuck but the work is majorly mine. I have uploaded data used in the proces as well as the models
